@@ -9,7 +9,7 @@ I chose this version of the Ring Algorithm because it strikes a balance between 
 This method keeps the essence of the Ring Algorithm intact while making it more practical and easier to implement. It ensures fault tolerance and efficient coordination without unnecessary overhead.
 
 KEY CONCEPTS
-Logical Ring Structure
+- Logical Ring Structure
 - Processes are arranged in a circular (ring-like) fashion.
 - Each process knows only its next neighbor in the ring.
 
