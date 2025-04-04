@@ -1,4 +1,5 @@
 My Reasons for Choosing my Approach
+
 I chose this version of the Ring Algorithm because it strikes a balance between simplicity and efficiency while still following the core principles of leader election in distributed systems.
 - Simple and Easy to Understand: Instead of complex message passing, I check the highest active process ID directly. This makes the system easier to build, debug, and maintain.
 - Efficient Leader Election: When a coordinator crashes, the system quickly finds the highest active process to take over, reducing delays and keeping things running smoothly.
